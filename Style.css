@@ -6,7 +6,11 @@ nav {
 }
 nav ul {
 	list-style-type: none;
+	padding-left: 1em;
+	padding-right: 1em;
 }
 nav li {
 	display: inline;
 }
+
+#linkBar { float: right; }
